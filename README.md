@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Vishwakarma</h1>
-<h3 align="center">👋 Third-year EC student | Passionate about coding and circuits | Let's build tech magic! 🚀 A passionate frontend developer from India</h3>
+<h3 align="center">👋 4th-year EC student | Passionate about coding and circuits | Let's build tech magic! 🚀 A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47a2m3xuh2mtk0qulthitvychpka3ojkahdi5dn3uh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
