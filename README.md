@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **- 🌐 JavaScript for web development - ⚛️ Exploring the React.js library - 🧠 Strengthening my skills in Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/harshit-vishawkarma-a3359925a](www.linkedin.com/in/harshit-vishawkarma-a3359925a)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harshit-vishawkarma-a3359925a](www.linkedin.com/in/harshit-vishawkarma-a3359925a)
 
 - 📫 How to reach me **harshitvishawkarma005@gmail.com**
 
